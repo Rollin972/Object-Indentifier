@@ -1,0 +1,57 @@
+.pt-1
+{
+    background-color: darkcyan;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 20px;
+    color: ghostwhite;
+}
+
+.title1
+{
+    font-size: 25px;
+    color: oldlace;
+}
+
+.no1_10
+{
+    border: lightsteelblue 10px solid;
+    padding: 30px;
+    margin: 500px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+body{
+    background-color: darkslategray;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.pt-2
+{
+    background-color: darkcyan;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 20px;
+    color: black;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.back
+{
+    font-size: 25px;
+}
+
+.numberof
+{
+    font-size: 25px;
+}
+
+.status
+{
+    font-size: 25px;
+}
+
+canvas{
+    border: cornflowerblue 10px solid;
+}
